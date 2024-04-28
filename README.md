@@ -1,4 +1,4 @@
-Welcome to my NP repository!
+Welcome to my NP(Напредно програмирање) repository!
 
 This repository contains all of my meticulously
 solved coding problems from the Advanced Programming course at FCSE.
