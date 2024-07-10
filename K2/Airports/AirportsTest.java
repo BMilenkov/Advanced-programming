@@ -19,6 +19,7 @@ class Flight {
     private final int time;
     private final int duration;
 
+
     public Flight(String from, String to, int time, int duration) {
         this.from = from;
         this.to = to;
